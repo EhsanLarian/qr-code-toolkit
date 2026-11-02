@@ -1,0 +1,22 @@
+# 1. Virtual Environment (CRITICAL: Never upload this)
+.venv/
+venv/
+env/
+
+# 2. Python cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 3. Generated QR Codes (Keep the folder, but ignore the generated images)
+generated_qrcodes/*
+!generated_qrcodes/.gitkeep
+
+# 4. IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 5. Keep example images (so they don't get caught by rules above)
+!examples/sample_outputs/*.png
