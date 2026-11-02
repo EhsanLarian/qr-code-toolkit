@@ -19,7 +19,7 @@ Built with [`qrcode`](https://github.com/lincolnloop/python-qrcode) and [`pyzbar
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/qr-code-toolkit.git
+git clone https://github.com/EhsanLarian/qr-code-toolkit.git
 cd qr-code-toolkit
 ```
 
